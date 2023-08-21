@@ -1,7 +1,7 @@
 variable "app_name" {
   type        = string
   description = "Azure AD App Name for Aviatrix Controller Build Up"
-  default     = "aviatrix_controller_app"
+  default     = "aviatrix_controller_app_21_08_2023"
 }
 
 variable "terraform_module_path" {
